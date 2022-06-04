@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7mxgmnng3bk32l00?svg=true)](https://ci.appveyor.com/project/Valted-cmd/unit1-2)
